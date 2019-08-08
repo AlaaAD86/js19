@@ -12,3 +12,4 @@ function init(){
 }
 init()
 
+console.log("C'est pas grave.. Ca arrive");
